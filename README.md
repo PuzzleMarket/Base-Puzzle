@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://i.imgur.com/pawjPva.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
+ <h2 align="center">Puzzle?.Market</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
   <p align="center">
