@@ -5,7 +5,7 @@
 </p>
   <p align="center">
     <a href="https://discord.gg/UajwX4a">
-      <img alt="Discord" src="https://discordapp.com/api/guilds/[670642581247361054]/widget.png?style=shield" />
+      <img alt="Discord" src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" />
     </a>
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
@@ -74,5 +74,5 @@ Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.givein
 Your small help goes a long way. :heart:
 </p>
 
-# DTinker - Discord Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/dtinker/discord-resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
+# DTinker - Discord Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/dtinker/discord-resources) 
 Adquirir versão mais completa: https://discord.gg/UajwX4a
