@@ -133,7 +133,7 @@ Citizen.CreateThread(function()
 					vip  = "Sem Vip"
 				end
 				if foto == nil or foto == "" then
-					foto  = "https://i.imgur.com/Gtu5w6f.png"
+					foto  = "https://i.imgur.com/pawjPva.png"
 				end
 				local html = string.format("<div id='DocumentSection'><div class='avatar-img'><img src='%s'></div> <div class='infos'><div class='main-info'>"..
 					"<h1 class='each-info person-name'>%s %s</h1>"..
@@ -178,7 +178,7 @@ end)
 					vip  = "Sem Vip"
 				end
 				if foto == nil or foto == "" then
-					foto  = "https://i.imgur.com/Gtu5w6f.png"
+					foto  = "https://i.imgur.com/pawjPva.png"
 				end
 				local html = string.format("<div id='DocumentSection'><div class='avatar-img'><img src='%s'></div> <div class='infos'><div class='main-info'>"..
 					"<h1 class='each-info person-name'>%s %s</h1>"..

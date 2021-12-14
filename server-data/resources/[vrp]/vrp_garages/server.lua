@@ -441,10 +441,7 @@ local garages = {
 local workgarage = {
 	["Policia"] = {
 		"policiacharger2018",
-		"policiasilverado",
 		"policiatahoe",
-		"policiataurus",
-		"policiavictoria",
 		"policiamustanggt",
 		"riot",
 		"policiabmwr1200"
@@ -463,8 +460,7 @@ local workgarage = {
 		"velum2"
 	},
 	["Paramedico"] = {
-		"paramedicoambu",
-		"paramedicocharger2014"
+		"paramedicoambu"
 	},
 	["ParamedicoH"] = {
 		"paramedicoheli",
