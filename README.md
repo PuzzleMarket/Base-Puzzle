@@ -74,5 +74,5 @@ Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.givein
 Your small help goes a long way. :heart:
 </p>
 
-
+![Discord Banner 2](https://discordapp.com/api/guilds/670642581247361054/widget.png?style=banner2)
 Adquirir versão mais completa: https://discord.gg/UajwX4a
