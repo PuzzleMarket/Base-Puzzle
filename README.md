@@ -74,5 +74,5 @@ Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.givein
 Your small help goes a long way. :heart:
 </p>
 
-![Discord Banner 2](https://discordapp.com/api/guilds/670642581247361054/widget.png?style=banner2)
+# DTinker - Discord Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/dtinker/discord-resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
 Adquirir versão mais completa: https://discord.gg/UajwX4a
