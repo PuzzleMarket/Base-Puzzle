@@ -8,3 +8,5 @@
       <img alt="Discord" src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" />
     </a>
   </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
